@@ -35,5 +35,5 @@ public class Calculator {
         return Math.pow(base, exponent);
     }
 
-    // Add other mathematical operations as needed
+    
 }
